@@ -1,5 +1,7 @@
-# python_adventure
-this is a code for a python text game
-simple left or right game. 
-OPEN_SOURCE 
-you can modify it
+hi, i am a python dev
+Javascript tkinker
+this is the code for a simple python text game
+part two will come out soon
+![image](https://user-images.githubusercontent.com/95881676/145674068-55b38ace-bb53-4256-9db7-6b6fd74d7a2e.png)
+(demo)
+you can grab the raw code and modify it to your liking
