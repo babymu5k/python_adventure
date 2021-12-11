@@ -1,4 +1,4 @@
-hi, i am a python dev
+hi, i am a python dev and
 Javascript tkinker
 this is the code for a simple python text game
 part two will come out soon
